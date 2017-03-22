@@ -23,7 +23,7 @@ public class Exercicio10 {
         System.out.println("Digite o total de vendas");
         vendas = console.nextDouble();
         
-        System.out.println("O valor recebido do salario mais as vendas é: " + ((vendas*C)+salario));
+        System.out.println("O valor recebido do salario somado as vendas é: " + ((vendas*C)+salario));
         
         
     }
