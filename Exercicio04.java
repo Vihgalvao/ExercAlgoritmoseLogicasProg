@@ -16,7 +16,7 @@ public class Exercicio04 {
         c = a + 1;
         d = b + 1;        
         
-        System.out.println("Valores mostrados " + a + " e " + b + " tornaram-se " + c + " e " + d + ".");
+        System.out.println("Valores mostrados " + a + " e " + b + " tornaram-se " + c + " e " + d + ", conforme sequencia.");
         
        
               
