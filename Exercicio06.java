@@ -17,10 +17,10 @@ public class Exercicio06 {
         System.out.println("Terceiro valor: ");
         c = console.nextDouble();
         
-        System.out.println("Area do triangulo é " + (a*c)/2 + ".");
-        System.out.println("Area do circulo é " + (c*c)*3.14 + ".");
-        System.out.println("Area do trapezio é " + ((a+b)/2)*c + ".");
-        System.out.println("Area do Quadrado é " + Math.pow(b,b) + ".");
+        System.out.println("Area do triangulo é: " + (a*c)/2 + ".");
+        System.out.println("Area do circulo é: " + (c*c)*3.14 + ".");
+        System.out.println("Area do trapezio é: " + ((a+b)/2)*c + ".");
+        System.out.println("Area do Quadrado é: " + Math.pow(b,b) + ".");
         System.out.println("O perimetro do retangulo é: " + 2*(a+b) + ".");
         
     }
